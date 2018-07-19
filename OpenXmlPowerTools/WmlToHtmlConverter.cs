@@ -3099,7 +3099,7 @@ namespace OpenXmlPowerTools
         // It actually works, but is not recommended.
         private static readonly List<string> ImageContentTypes = new List<string>
         {
-            "image/png", "image/gif", "image/tiff", "image/jpeg"
+            "image/png", "image/gif", "image/tiff", "image/jpeg", "image/bmp"
         };
 
 
